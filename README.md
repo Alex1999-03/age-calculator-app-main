@@ -32,7 +32,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Alex1999-03/age-calculator-app-main/assets/64668518/e81b9dfe-811d-476b-b224-5dad5f03d739)
+
+![](https://github.com/Alex1999-03/age-calculator-app-main/assets/64668518/4b2c7441-d3df-4133-996a-5ed49b77bbf6)
 
 ### Links
 
@@ -48,5 +50,5 @@ Users should be able to:
 
 ## Author
 
-- [Github](https://www.your-site.com)
+- [Github](https://github.com/Alex1999-03)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/yourusername)
