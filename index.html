@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="./css/desktop.css"
+      media="(min-width: 1024px)"
+    />
+    <title>Frontend Mentor | Age calculator app</title>
+  </head>
+  <body>
+    <main class="container">
+      <div class="card">
+        <form id="form">
+          <div class="container-field">
+            <div class="form-field">
+              <label for="day" class="form-field__label">Day</label>
+              <input
+                type="text"
+                inputmode="numeric"
+                id="day"
+                name="day"
+                placeholder="DD"
+                maxlength="2"
+                autocomplete="off"
+                class="form-field__input"
+              />
+              <span class="form-field__error"></span>
+            </div>
+            <div class="form-field">
+              <label for="month" class="form-field__label">Month</label>
+              <input
+                type="text"
+                inputmode="numeric"
+                id="month"
+                name="month"
+                placeholder="MM"
+                maxlength="2"
+                autocomplete="off"
+                class="form-field__input"
+              />
+              <span class="form-field__error"></span>
+            </div>
+            <div class="form-field">
+              <label for="year" class="form-field__label">Year</label>
+              <input
+                type="text"
+                inputmode="numeric"
+                id="year"
+                name="year"
+                placeholder="YYYY"
+                maxlength="4"
+                autocomplete="off"
+                class="form-field__input"
+              />
+              <span class="form-field__error"></span>
+            </div>
+          </div>
+          <div class="form-submit">
+            <hr class="form-submit__line" />
+            <button type="submit" class="form-submit__button">
+              <img src="./assets/images/icon-arrow.svg" alt="Icon submit" />
+            </button>
+          </div>
+        </form>
+        <div class="card__result">
+          <p><span id="years">--</span> years</p>
+          <p><span id="months">--</span> months</p>
+          <p><span id="days">--</span> days</p>
+        </div>
+      </div>
+    </main>
+    <script src="./js/scripts.js"></script>
+  </body>
+</html>

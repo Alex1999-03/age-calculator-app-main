@@ -1,0 +1,35 @@
+.card {
+  width: 760px;
+  height: 590px;
+  padding: 50px;
+  border-radius: 20px 20px 160px 20px;
+}
+
+.container-field {
+  gap: 30px;
+  justify-content: start;
+}
+
+.form-field {
+  width: 147px;
+}
+
+.form-submit {
+  align-items: end;
+  margin-top: 0;
+}
+
+.form-submit__button {
+  width: 88px;
+  height: 88px;
+}
+
+.form-submit__button > img {
+  width: 44px;
+  height: 44px;
+}
+
+.card__result {
+  font-size: 8.2rem;
+  line-height: 1.1;
+}
