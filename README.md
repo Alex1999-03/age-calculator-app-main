@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/age-calculator-app-main-with-html-and-css-vpTsHXrtHi)
+- [Live site](https://alex1999-03.github.io/age-calculator-app-main/)
 
 ## Built with
 
@@ -51,4 +51,4 @@ Users should be able to:
 ## Author
 
 - [Github](https://github.com/Alex1999-03)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/yourusername)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Alex1999-03)
